@@ -299,7 +299,7 @@
                     <img src="assets/images/home/logo-DT.png" alt="logo-small" class="logo-sm">
                 </span>
                 <span class="">
-                    <img src="assets/images/home/logo.png" alt="logo-large" class="logo-lg logo-light">
+                    <img src="assets/images/home/logo.svg" alt="logo-large" class="logo-lg logo-light">
                     <img src="assets/images/logo-dark.png" alt="logo-large" class="logo-lg logo-dark">
                 </span>
             </a>

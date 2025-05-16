@@ -2863,7 +2863,7 @@ button.uppy-Dashboard-Item-progressIndicator:focus .uppy-Dashboard-Item-progress
 }
 
 .uppy-Dashboard-inner {
-    background-color: #f4f4f4;
+   background-color: white;
     border: 0px solid #eaeaea;
     border-radius: 5px;
     max-height: 100%;
